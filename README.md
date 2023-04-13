@@ -9,7 +9,7 @@ MainActivity: <br><br>
 There are 2 recyclerviews, the one at the top shows the locations, the one at the bottom shows the residents at the location. <br><br>
 If you click a recyclerview item from the top, clicked item will be highlighted. <br><br>
 ![main](https://user-images.githubusercontent.com/70278989/231724060-73fc0ccd-28d1-42bf-9d5c-3a6dd6e0e3e3.jpg) <br><br>
-The added the lazy load feature <br><br>
+I added the lazy load feature <br><br>
 ![lazy load](https://user-images.githubusercontent.com/70278989/231724351-864f3a4b-c3c8-4294-98b3-0a879d4375e4.jpg) <br><br>
 Detailed Page: <br><br>
 You can see the character info. <br><br>
